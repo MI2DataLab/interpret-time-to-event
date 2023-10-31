@@ -1,0 +1,11 @@
+rsf,blca_diff-var=False_full-train=True_split=None,0.13323316067482593
+rsf,lgg_diff-var=False_full-train=True_split=None,0.07326661703397441
+rsf,brca_diff-var=False_full-train=True_split=None,0.07233912578383588
+rsf,hnsc_diff-var=False_full-train=True_split=None,0.10682745870506803
+rsf,kirc_diff-var=False_full-train=True_split=None,0.11453210395029383
+rsf,luad_diff-var=False_full-train=True_split=None,0.0827139690319223
+rsf,lusc_diff-var=False_full-train=True_split=None,0.10472195645068336
+rsf,ov_diff-var=False_full-train=True_split=None,0.1050663875277638
+rsf,paad_diff-var=False_full-train=True_split=None,0.1333115110344311
+rsf,skcm_diff-var=False_full-train=True_split=None,0.11237731359036839
+rsf,stad_diff-var=False_full-train=True_split=None,0.1072830807799451
