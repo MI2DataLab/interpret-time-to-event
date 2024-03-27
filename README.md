@@ -2,7 +2,11 @@
 
 This repository will contain supplementary code associated with the article
 
-> H. Baniecki, B. Sobieski, P. Szatkowski, P. Bombinski, P. Biecek. **Interpretable machine learning for time-to-event prediction in medicine and healthcare**. *in review*, 2023
+> H. Baniecki, B. Sobieski, P. Szatkowski, P. Bombinski, P. Biecek. **Interpretable machine learning for time-to-event prediction in medicine and healthcare**. *in review*, 2024
+
+Directory `xlungs-trustworthy-los-prediction` contains updated code and data from the repository https://github.com/mi2datalab/xlungs-trustworthy-los-prediction attached to the paper
+
+> H. Baniecki, B. Sobieski, P. Bombinski, P. Szatkowski, P. Biecek. *Hospital Length of Stay Prediction Based on Multi-modal Data towards Trustworthy Human-AI Collaboration in Radiomics*. **International Conference on Artificial Intelligence in Medicine**, 2023
 
 ## Acknowledgements
 
