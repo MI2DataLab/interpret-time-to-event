@@ -1,10 +1,10 @@
 # interpret-time-to-event
 
-This repository contains supplementary code associated with [the article](https://doi.org/10.1016/j.artmed.2024.103026):
+This repository contains supplementary data and code associated with [the article](https://doi.org/10.1016/j.artmed.2024.103026):
 
 > H. Baniecki, B. Sobieski, P. Szatkowski, P. Bombinski, P. Biecek. **Interpretable machine learning for time-to-event prediction in medicine and healthcare**. *Artificial Intelligence in Medicine*, 2024
 
-Directory `xlungs-trustworthy-los-prediction` contains an updated code and data from the repository https://github.com/mi2datalab/xlungs-trustworthy-los-prediction, which is a supplement to [the initial version of the paper](https://doi.org/10.1007/978-3-031-34344-5_9):
+Directory `xlungs-trustworthy-los-prediction` contains an updated code and data from [the GitHub repository](https://github.com/mi2datalab/xlungs-trustworthy-los-prediction) supplementing [the initial version of the paper](https://doi.org/10.1007/978-3-031-34344-5_9):
 
 > H. Baniecki, B. Sobieski, P. Bombinski, P. Szatkowski, P. Biecek. **Hospital Length of Stay Prediction Based on Multi-modal Data towards Trustworthy Human-AI Collaboration in Radiomics**. *International Conference on Artificial Intelligence in Medicine*, 2023
 
